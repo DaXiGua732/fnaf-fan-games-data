@@ -30,7 +30,17 @@
       "metrics": {
         "fakeViews": 12540,
         "score": 4.8
-      }
+      },
+      "shortDescription": "",
+      "tags": [],
+      "platforms": [],
+      "status": "published",
+      "featured": false,
+      "archived": false,
+      "sortOrder": 0,
+      "createdAt": "",
+      "updatedAt": "",
+      "publishedAt": ""
     },
     {
       "id": "tjoc-story-mode",
@@ -61,7 +71,17 @@
       "metrics": {
         "fakeViews": 8730,
         "score": 4.6
-      }
+      },
+      "shortDescription": "",
+      "tags": [],
+      "platforms": [],
+      "status": "published",
+      "featured": false,
+      "archived": false,
+      "sortOrder": 0,
+      "createdAt": "",
+      "updatedAt": "",
+      "publishedAt": ""
     },
     {
       "id": "one-night-at-flumptys",
@@ -88,7 +108,17 @@
       "metrics": {
         "fakeViews": 20180,
         "score": 4.9
-      }
+      },
+      "shortDescription": "",
+      "tags": [],
+      "platforms": [],
+      "status": "published",
+      "featured": false,
+      "archived": false,
+      "sortOrder": 0,
+      "createdAt": "",
+      "updatedAt": "",
+      "publishedAt": ""
     },
     {
       "id": "five-nights-at-candys",
@@ -120,7 +150,17 @@
       "metrics": {
         "fakeViews": 16320,
         "score": 4.7
-      }
+      },
+      "shortDescription": "",
+      "tags": [],
+      "platforms": [],
+      "status": "published",
+      "featured": false,
+      "archived": false,
+      "sortOrder": 0,
+      "createdAt": "",
+      "updatedAt": "",
+      "publishedAt": ""
     },
     {
       "id": "popgoes",
@@ -151,11 +191,21 @@
       "metrics": {
         "fakeViews": 11260,
         "score": 4.5
-      }
+      },
+      "shortDescription": "",
+      "tags": [],
+      "platforms": [],
+      "status": "published",
+      "featured": false,
+      "archived": false,
+      "sortOrder": 0,
+      "createdAt": "",
+      "updatedAt": "",
+      "publishedAt": ""
     },
     {
       "id": "dayshift-at-freddys",
-      "title": "Dayshift at Freddy's",
+      "title": "4321",
       "author": "DirectDogman",
       "releaseYear": 2017,
       "ipSeries": "玩梗向混搭",
@@ -182,7 +232,17 @@
       "metrics": {
         "fakeViews": 9450,
         "score": 4.4
-      }
+      },
+      "shortDescription": "",
+      "tags": [],
+      "platforms": [],
+      "status": "published",
+      "featured": false,
+      "archived": false,
+      "sortOrder": 0,
+      "createdAt": "",
+      "updatedAt": "2026-09-30T12:31:09.318Z",
+      "publishedAt": ""
     }
   ]
 }

@@ -49,11 +49,17 @@
       "releaseYear": 2019,
       "ipSeries": "FNAF 主线同人",
       "engine": "Unreal Engine 4",
-      "coverImage": "https://daxigua732.github.io/fnaf-fan-games-data/images/tjoc-story-mode-cover.svg",
+      "coverImage": "https://daxigua732.github.io/fnaf-fan-games-data/images/games/tjoc-story-mode/cover-20260930131757.jpg",
       "bannerImage": "https://daxigua732.github.io/fnaf-fan-games-data/images/tjoc-story-mode-banner.svg",
       "gallery": [
         "https://daxigua732.github.io/fnaf-fan-games-data/images/tjoc-story-mode-banner.svg",
-        "https://daxigua732.github.io/fnaf-fan-games-data/images/tjoc-story-mode-cover.svg"
+        "https://daxigua732.github.io/fnaf-fan-games-data/images/tjoc-story-mode-cover.svg",
+        "https://daxigua732.github.io/fnaf-fan-games-data/images/games/tjoc-story-mode/gallery-20260930131815.jpg",
+        "https://daxigua732.github.io/fnaf-fan-games-data/images/games/tjoc-story-mode/gallery-20260930131817.jpg",
+        "https://daxigua732.github.io/fnaf-fan-games-data/images/games/tjoc-story-mode/gallery-20260930131819.jpg",
+        "https://daxigua732.github.io/fnaf-fan-games-data/images/games/tjoc-story-mode/gallery-20260930131822.jpg",
+        "https://daxigua732.github.io/fnaf-fan-games-data/images/games/tjoc-story-mode/gallery-20260930131823.jpg",
+        "https://daxigua732.github.io/fnaf-fan-games-data/images/games/tjoc-story-mode/gallery-20260930131826.jpg"
       ],
       "videoUrl": "https://www.bilibili.com/video/BV1X4411J7dv",
       "description": "Reborn 的正统续作，改为逐日推进的剧情模式。玩家扮演 Scott 本人，在七个章节中经历从创作到失控的全过程。新增潜行、解谜与多结局系统，是系列叙事最完整的一部。",
@@ -80,7 +86,7 @@
       "archived": false,
       "sortOrder": 0,
       "createdAt": "",
-      "updatedAt": "",
+      "updatedAt": "2026-09-30T13:18:35.985Z",
       "publishedAt": ""
     },
     {

@@ -210,11 +210,12 @@
       "releaseYear": 2017,
       "ipSeries": "玩梗向混搭",
       "engine": "Clickteam Fusion 2.5",
-      "coverImage": "https://daxigua732.github.io/fnaf-fan-games-data/images/dayshift-at-freddys-cover.svg",
-      "bannerImage": "https://daxigua732.github.io/fnaf-fan-games-data/images/dayshift-at-freddys-banner.svg",
+      "coverImage": "https://daxigua732.github.io/fnaf-fan-games-data/images/games/dayshift-at-freddys/cover-20260930124737.jpg",
+      "bannerImage": "https://daxigua732.github.io/fnaf-fan-games-data/images/games/dayshift-at-freddys/banner-20260930124751.jpg",
       "gallery": [
         "https://daxigua732.github.io/fnaf-fan-games-data/images/dayshift-at-freddys-banner.svg",
-        "https://daxigua732.github.io/fnaf-fan-games-data/images/dayshift-at-freddys-cover.svg"
+        "https://daxigua732.github.io/fnaf-fan-games-data/images/dayshift-at-freddys-cover.svg",
+        "https://daxigua732.github.io/fnaf-fan-games-data/images/games/dayshift-at-freddys/gallery-20260930124806.jpg"
       ],
       "videoUrl": "https://www.bilibili.com/video/BV1jx411x7Kz",
       "description": "把恐怖生存彻底反转成「打工喜剧」。玩家白天在披萨店上班，通过对话选项、道具与一本会说话的账本推进多条荒诞分支剧情。以密集的玩梗密度和超多结局成为同人圈的经典。",
@@ -241,7 +242,7 @@
       "archived": false,
       "sortOrder": 0,
       "createdAt": "",
-      "updatedAt": "2026-09-30T12:31:09.318Z",
+      "updatedAt": "2026-09-30T12:48:15.333Z",
       "publishedAt": ""
     }
   ]

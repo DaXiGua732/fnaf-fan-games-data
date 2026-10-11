@@ -270,13 +270,14 @@
       "shortDescription": "",
       "tags": [],
       "platforms": [],
-      "status": "published",
+      "status": "offline",
       "featured": false,
       "archived": false,
       "sortOrder": 0,
       "createdAt": "",
-      "updatedAt": "2026-09-30T12:48:15.333Z",
-      "publishedAt": ""
+      "updatedAt": "2026-10-11T16:00:12.219Z",
+      "publishedAt": "",
+      "updatedBy": "DaXiGua732"
     }
   ]
 }

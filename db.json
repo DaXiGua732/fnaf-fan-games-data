@@ -8,7 +8,7 @@
       "ipSeries": "Jolly",
       "engine": "Clickteam Fusion",
       "coverImage": "https://daxigua732.github.io/fnaf-fan-games-data/images/games/jolly-anniversary-edition/cover-20261011155613.png",
-      "bannerImage": "",
+      "bannerImage": "https://daxigua732.github.io/fnaf-fan-games-data/images/games/jolly-anniversary-edition/banner-20261011155700.webp",
       "gallery": [
         "https://daxigua732.github.io/fnaf-fan-games-data/images/games/jolly-anniversary-edition/gallery-20261011155618.jpg"
       ],
@@ -25,14 +25,16 @@
         "score": 0
       },
       "shortDescription": "",
-      "tags": [],
+      "tags": [
+        "Jolly"
+      ],
       "platforms": [],
-      "status": "draft",
+      "status": "published",
       "featured": false,
       "archived": false,
       "sortOrder": 0,
       "createdAt": "2026-10-11T15:56:41.257Z",
-      "updatedAt": "2026-10-11T15:56:41.257Z",
+      "updatedAt": "2026-10-11T15:57:43.724Z",
       "publishedAt": "",
       "updatedBy": "DaXiGua732"
     },

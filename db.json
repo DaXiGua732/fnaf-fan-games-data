@@ -39,48 +39,6 @@
       "updatedBy": "DaXiGua732"
     },
     {
-      "id": "tjoc-reborn",
-      "title": "The Joy of Creation: Reborn",
-      "author": "Nikson",
-      "releaseYear": 2017,
-      "ipSeries": "FNAF 主线同人",
-      "engine": "Unreal Engine 4",
-      "coverImage": "https://daxigua732.github.io/fnaf-fan-games-data/images/tjoc-reborn-cover.svg",
-      "bannerImage": "https://daxigua732.github.io/fnaf-fan-games-data/images/tjoc-reborn-banner.svg",
-      "gallery": [
-        "https://daxigua732.github.io/fnaf-fan-games-data/images/tjoc-reborn-banner.svg",
-        "https://daxigua732.github.io/fnaf-fan-games-data/images/tjoc-reborn-cover.svg"
-      ],
-      "videoUrl": "https://www.bilibili.com/video/BV1Js41137YQ",
-      "description": "以第一人称视角重述「被烧毁的宅邸」之夜。玩家在五个夜晚中躲避 Ignited 系列机械玩偶的追杀，需要用相机闪光灯自保。Reborn 是重制版，重置了全部场景光照与 AI 行为树，被公认为 FNAF 同人 3D 恐怖向的标杆之作。",
-      "downloads": [
-        {
-          "provider": "123云盘",
-          "url": "https://www.123pan.com/s/example-tjoc",
-          "password": "tjoc"
-        },
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/example-tjoc",
-          "password": "2017"
-        }
-      ],
-      "metrics": {
-        "fakeViews": 12540,
-        "score": 4.8
-      },
-      "shortDescription": "",
-      "tags": [],
-      "platforms": [],
-      "status": "published",
-      "featured": false,
-      "archived": false,
-      "sortOrder": 0,
-      "createdAt": "",
-      "updatedAt": "",
-      "publishedAt": ""
-    },
-    {
       "id": "one-night-at-flumptys",
       "title": "One Night at Flumpty's",
       "author": "Jonochrome",

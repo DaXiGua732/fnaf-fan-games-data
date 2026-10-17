@@ -37,43 +37,6 @@
       "updatedAt": "2026-10-11T15:57:43.724Z",
       "publishedAt": "",
       "updatedBy": "DaXiGua732"
-    },
-    {
-      "id": "one-night-at-flumptys",
-      "title": "One Night at Flumpty's",
-      "author": "Jonochrome",
-      "releaseYear": 2015,
-      "ipSeries": "玩梗向混搭",
-      "engine": "Clickteam Fusion 2.5",
-      "coverImage": "https://daxigua732.github.io/fnaf-fan-games-data/images/one-night-at-flumptys-cover.svg",
-      "bannerImage": "https://daxigua732.github.io/fnaf-fan-games-data/images/one-night-at-flumptys-banner.svg",
-      "gallery": [
-        "https://daxigua732.github.io/fnaf-fan-games-data/images/one-night-at-flumptys-banner.svg",
-        "https://daxigua732.github.io/fnaf-fan-games-data/images/one-night-at-flumptys-cover.svg"
-      ],
-      "videoUrl": "https://www.bilibili.com/video/BV1Wx411s7hM",
-      "description": "「Flumpty Bumpty 不受物理规则限制。」一款画风人畜无害、实际难度极高的恶搞向同人。玩家只有一夜要守，蛋形角色会无视摄像头与门的规则直接逼近办公室。公认的「史上最不讲道理同人」。",
-      "downloads": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/example-onaf",
-          "password": "egg1"
-        }
-      ],
-      "metrics": {
-        "fakeViews": 20180,
-        "score": 4.9
-      },
-      "shortDescription": "",
-      "tags": [],
-      "platforms": [],
-      "status": "published",
-      "featured": false,
-      "archived": false,
-      "sortOrder": 0,
-      "createdAt": "",
-      "updatedAt": "",
-      "publishedAt": ""
     }
   ]
 }

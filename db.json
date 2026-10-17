@@ -74,48 +74,6 @@
       "createdAt": "",
       "updatedAt": "",
       "publishedAt": ""
-    },
-    {
-      "id": "five-nights-at-candys",
-      "title": "Five Nights at Candy's",
-      "author": "Emil Macko",
-      "releaseYear": 2015,
-      "ipSeries": "FNAF 主线同人",
-      "engine": "Clickteam Fusion 2.5",
-      "coverImage": "https://daxigua732.github.io/fnaf-fan-games-data/images/five-nights-at-candys-cover.svg",
-      "bannerImage": "https://daxigua732.github.io/fnaf-fan-games-data/images/five-nights-at-candys-banner.svg",
-      "gallery": [
-        "https://daxigua732.github.io/fnaf-fan-games-data/images/five-nights-at-candys-banner.svg",
-        "https://daxigua732.github.io/fnaf-fan-games-data/images/five-nights-at-candys-cover.svg"
-      ],
-      "videoUrl": "https://www.bilibili.com/video/BV1ks411k7JY",
-      "description": "以「糖果猫」Candy the Cat 为首的独立玩偶阵容，构建了一套完整的原创世界观与时间线。以干净的像素美术、严密的 AI 难度曲线和出色的氛围营造，成为最早获得原作粉丝认可的同人系列之一。",
-      "downloads": [
-        {
-          "provider": "123云盘",
-          "url": "https://www.123pan.com/s/example-fnac",
-          "password": "fnac"
-        },
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/example-fnac",
-          "password": "candy"
-        }
-      ],
-      "metrics": {
-        "fakeViews": 16320,
-        "score": 4.7
-      },
-      "shortDescription": "",
-      "tags": [],
-      "platforms": [],
-      "status": "published",
-      "featured": false,
-      "archived": false,
-      "sortOrder": 0,
-      "createdAt": "",
-      "updatedAt": "",
-      "publishedAt": ""
     }
   ]
 }

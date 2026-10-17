@@ -116,47 +116,6 @@
       "createdAt": "",
       "updatedAt": "",
       "publishedAt": ""
-    },
-    {
-      "id": "popgoes",
-      "title": "POPGOES",
-      "author": "Kane Carter",
-      "releaseYear": 2016,
-      "ipSeries": "FNAF 主线同人",
-      "engine": "Clickteam Fusion 2.5",
-      "coverImage": "https://daxigua732.github.io/fnaf-fan-games-data/images/popgoes-cover.svg",
-      "bannerImage": "https://daxigua732.github.io/fnaf-fan-games-data/images/popgoes-banner.svg",
-      "gallery": [
-        "https://daxigua732.github.io/fnaf-fan-games-data/images/popgoes-banner.svg",
-        "https://daxigua732.github.io/fnaf-fan-games-data/images/popgoes-cover.svg"
-      ],
-      "videoUrl": "https://www.bilibili.com/video/BV1Ns41167wa",
-      "description": "设定于原作时间线数十年后的未来。玩家作为看守人管理 Popgoes Pizza 的旧设施，靠一套「昼夜循环 + 电量分配」的双层资源机制生存。以极高的机制复杂度与隐藏剧情密度著称。",
-      "downloads": [
-        {
-          "provider": "123云盘",
-          "url": "https://www.123pan.com/s/example-popgoes",
-          "password": "pg16"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/example-popgoes"
-        }
-      ],
-      "metrics": {
-        "fakeViews": 11260,
-        "score": 4.5
-      },
-      "shortDescription": "",
-      "tags": [],
-      "platforms": [],
-      "status": "published",
-      "featured": false,
-      "archived": false,
-      "sortOrder": 0,
-      "createdAt": "",
-      "updatedAt": "",
-      "publishedAt": ""
     }
   ]
 }

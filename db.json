@@ -1,6 +1,39 @@
 {
   "games": [
     {
+      "id": "jolly",
+      "title": "Jolly",
+      "author": "IvanG",
+      "releaseYear": 2016,
+      "ipSeries": "Jolly",
+      "engine": "Clickteam",
+      "coverImage": "https://daxigua732.github.io/fnaf-fan-games-data/images/games/jolly/cover-20261018084436.webp",
+      "bannerImage": "https://daxigua732.github.io/fnaf-fan-games-data/images/games/jolly/banner-20261018084444.webp",
+      "gallery": [],
+      "description": "v1.6.0 由 @RainbowHype 制作\n\n欢迎来到 Jolly 的幻想世界！来吃我们的食物或策划派对，Jolly 的幻想世界就是你的好去处！\n\n主演：大家最喜欢的蜜蜂——Jolly！\n\n人们对 Jolly 和他的伙伴们总是百看不厌。工作时间现已延长！你能熬过五个夜晚吗？\n\n特色\n\n自定义夜晚\n\n电话通话字幕！\n\n叙事型 8 位小游戏\n\n玩法\n你在一栋电力有限的建筑里担任保安。使用发电机来充电。要聪明点，发电机的电力也是有限的！\n\n如果“某个不受欢迎的家伙”可能要用电梯，就把电梯往上推。\n\n如果一切都失败了，就关门作为最后手段。\n\n配置要求\nWindows XP 或更新版本（游戏在 Mac/Linux 设备上无法正常运行！）\n\nDirectX 9\n\n最低分辨率为 1024x768 的显示器\n\n512MB 存储空间\n\n1GB 内存\n\n512MB GPU（推荐 Nvidia GeForce 9400 及以上）",
+      "downloads": [
+        {
+          "provider": "123云盘",
+          "url": "https://gamejolt.com/games/jolly/165858"
+        }
+      ],
+      "metrics": {
+        "fakeViews": 0,
+        "score": 0
+      },
+      "shortDescription": "",
+      "tags": [],
+      "platforms": [],
+      "status": "published",
+      "featured": false,
+      "archived": false,
+      "sortOrder": 0,
+      "createdAt": "2026-10-18T08:45:22.840Z",
+      "updatedAt": "2026-10-18T08:45:22.840Z",
+      "publishedAt": "",
+      "updatedBy": "DaXiGua732"
+    },
+    {
       "id": "jolly-4",
       "title": "Jolly 4",
       "author": "IvanG",

@@ -1,6 +1,53 @@
 {
   "games": [
     {
+      "id": "jolly3",
+      "title": "Jolly3 第二章",
+      "author": "IvanG",
+      "releaseYear": 2018,
+      "ipSeries": "Jolly",
+      "engine": "Clickteam",
+      "coverImage": "https://daxigua732.github.io/fnaf-fan-games-data/images/games/jolly3/cover-20261018085409.webp",
+      "bannerImage": "https://daxigua732.github.io/fnaf-fan-games-data/images/games/jolly3/banner-20261018085420.webp",
+      "gallery": [
+        "https://daxigua732.github.io/fnaf-fan-games-data/images/games/jolly3/gallery-20261018085427.webp",
+        "https://daxigua732.github.io/fnaf-fan-games-data/images/games/jolly3/gallery-20261018085430.webp",
+        "https://daxigua732.github.io/fnaf-fan-games-data/images/games/jolly3/gallery-20261018085433.webp",
+        "https://daxigua732.github.io/fnaf-fan-games-data/images/games/jolly3/gallery-20261018085435.webp",
+        "https://daxigua732.github.io/fnaf-fan-games-data/images/games/jolly3/gallery-20261018085438.webp"
+      ],
+      "description": "你的工作还没结束。你还必须在这座可怕的设施里再度过五个夜晚。但这一次，一个骇人的发现尚未被揭开……\n\n展示 JOLLY 系列中最引人注目的特色及更多内容，例如：\n\n字幕\n\n挑战\n\n所有可访问区域的自定义夜晚\n\n点击式自由探索\n\n语音演出\n\n设置界面\n\n额外内容\n\n最低配置要求\n\n2GB 内存\n\n兼容 DirectX 9、支持像素着色器的 512MB 显卡\n\nIntel Core 2 Quad Q9550 CPU 或更好\n\nWindows 7、8、8.1、10 32 位\n\n推荐配置要求\n\n4GB 内存\n\n兼容 DirectX 9、支持像素着色器的 1GB 显卡\n\nIntel i5-7400 或更好\n\nWindows 7、8、8.1、10 64 位",
+      "downloads": [
+        {
+          "provider": "PC",
+          "url": "https://1813252629.share.123pan.cn/123pan/Et1UVv-DJXeA?pwd=2psM#",
+          "password": "2psM"
+        },
+        {
+          "provider": "安卓",
+          "url": "https://1813252629.share.123pan.cn/123pan/Et1UVv-nMStA?pwd=8GZJ#",
+          "password": "8GZJ"
+        }
+      ],
+      "metrics": {
+        "fakeViews": 0,
+        "score": 0
+      },
+      "shortDescription": "",
+      "tags": [
+        "Jolly"
+      ],
+      "platforms": [],
+      "status": "draft",
+      "featured": false,
+      "archived": false,
+      "sortOrder": 0,
+      "createdAt": "2026-10-18T08:55:56.424Z",
+      "updatedAt": "2026-10-18T08:55:56.424Z",
+      "publishedAt": "",
+      "updatedBy": "DaXiGua732"
+    },
+    {
       "id": "jolly",
       "title": "Jolly",
       "author": "IvanG",

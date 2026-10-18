@@ -1,6 +1,36 @@
 {
   "games": [
     {
+      "id": "jolly-4",
+      "title": "Jolly 4",
+      "author": "IvanG",
+      "releaseYear": 2025,
+      "ipSeries": "Jolly",
+      "engine": "Clickteam",
+      "coverImage": "",
+      "bannerImage": "",
+      "gallery": [],
+      "description": "Jolly系列的最新作\n目前还是demo状态",
+      "downloads": [],
+      "metrics": {
+        "fakeViews": 0,
+        "score": 0
+      },
+      "shortDescription": "乔利4：乔利系列的最新作",
+      "tags": [
+        "Jolly"
+      ],
+      "platforms": [],
+      "status": "draft",
+      "featured": false,
+      "archived": false,
+      "sortOrder": 0,
+      "createdAt": "2026-10-18T08:37:06.023Z",
+      "updatedAt": "2026-10-18T08:37:06.023Z",
+      "publishedAt": "",
+      "updatedBy": "DaXiGua732"
+    },
+    {
       "id": "jolly-anniversary-edition",
       "title": "Jolly: Anniversary Edition",
       "author": "Mannyboi",

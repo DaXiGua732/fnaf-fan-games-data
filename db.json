@@ -22,14 +22,16 @@
         "score": 0
       },
       "shortDescription": "",
-      "tags": [],
+      "tags": [
+        "Jolly"
+      ],
       "platforms": [],
       "status": "published",
       "featured": false,
       "archived": false,
       "sortOrder": 0,
       "createdAt": "2026-10-18T08:45:22.840Z",
-      "updatedAt": "2026-10-18T08:45:22.840Z",
+      "updatedAt": "2026-10-18T08:46:23.063Z",
       "publishedAt": "",
       "updatedBy": "DaXiGua732"
     },
